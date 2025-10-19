@@ -24,6 +24,14 @@
       "args": ["build", "${workspaceFolder}/Exercise3/Exercise3.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
       "problemMatcher": "$msCompile",
       "group": "build"
+    }, 
+    {
+      "label": "build (Exercise4)",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/Exercise4/Exercise4.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
+      "problemMatcher": "$msCompile",
+      "group": "build"
     }
   ]
 }
