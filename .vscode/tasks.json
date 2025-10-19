@@ -5,12 +5,15 @@
       "label": "build (ReadUser)",
       "type": "process",
       "command": "dotnet",
-      "args": [
-        "build",
-        "${workspaceFolder}/ReadUser/ReadUser.csproj",
-        "/property:GenerateFullPaths=true",
-        "/consoleloggerparameters:NoSummary"
-      ],
+      "args": ["build", "${workspaceFolder}/ReadUser/ReadUser.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
+      "problemMatcher": "$msCompile",
+      "group": "build"
+    },
+    {
+      "label": "build (Exercise2)",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/Exercise2/Exercise2.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
       "problemMatcher": "$msCompile",
       "group": "build"
     }

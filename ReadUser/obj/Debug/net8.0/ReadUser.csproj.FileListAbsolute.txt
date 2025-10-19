@@ -12,3 +12,4 @@
 /home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.pdb
 /home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.genruntimeconfig.cache
 /home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ref/ReadUser.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.sourcelink.json
