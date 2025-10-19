@@ -37,12 +37,33 @@
       "cwd": "${workspaceFolder}/Exercise4",
       "console": "integratedTerminal",
       "preLaunchTask": "build (Exercise4)"
+    }, 
+      {
+      "name": ".NET: Exercise5",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/Exercise5/bin/Debug/net8.0/Exercise5.dll",
+      "cwd": "${workspaceFolder}/Exercise5",
+      "console": "integratedTerminal",
+      "preLaunchTask": "build (Exercise5)"
+    }, 
+    {
+      "name": ".NET: Exercise6",
+
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/Exercise6/bin/Debug/net8.0/Exercise6.dll",
+      "cwd": "${workspaceFolder}/Exercise6",
+      "console": "integratedTerminal",
+      "preLaunchTask": "build (Exercise6)"
     }
   ],
   "compounds": [
     { "name": "Start Exercise2", "configurations": [".NET: Exercise2"] },
     { "name": "Start Exercise3", "configurations": [".NET: Exercise3"] },
     { "name": "Start ReadUser", "configurations": [".NET: ReadUser"] },
-    { "name": "Start Exercise4", "configurations": [".NET: Exercise4"] }
+    { "name": "Start Exercise4", "configurations": [".NET: Exercise4"] },
+    { "name": "Start Exercise5", "configurations": [".NET: Exercise5"] },
+    { "name": "Start Exercise6", "configurations": [".NET: Exercise6"] }
   ]
 }

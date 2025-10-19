@@ -32,6 +32,22 @@
       "args": ["build", "${workspaceFolder}/Exercise4/Exercise4.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
       "problemMatcher": "$msCompile",
       "group": "build"
+    }, 
+    {
+      "label": "build (Exercise5)",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/Exercise5/Exercise5.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
+      "problemMatcher": "$msCompile",
+      "group": "build"
+    }, 
+    {
+      "label": "build (Exercise6)",
+      "type": "process",
+      "command": "dotnet",
+      "args": ["build", "${workspaceFolder}/Exercise6/Exercise6.csproj", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
+      "problemMatcher": "$msCompile",
+      "group": "build"
     }
   ]
 }
