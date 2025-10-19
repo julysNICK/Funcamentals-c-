@@ -1,0 +1,15 @@
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/bin/Debug/net8.0/Exercise3
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/bin/Debug/net8.0/Exercise3.deps.json
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/bin/Debug/net8.0/Exercise3.runtimeconfig.json
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/bin/Debug/net8.0/Exercise3.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/bin/Debug/net8.0/Exercise3.pdb
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfoInputs.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.AssemblyInfo.cs
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.csproj.CoreCompileInputs.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.sourcelink.json
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/refint/Exercise3.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.pdb
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/Exercise3.genruntimeconfig.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/Exercise3/obj/Debug/net8.0/ref/Exercise3.dll

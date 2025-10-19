@@ -1,7 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
+
     {
       "name": ".NET: ReadUser",
       "type": "coreclr",
@@ -19,9 +19,20 @@
       "cwd": "${workspaceFolder}/Exercise2",
       "console": "integratedTerminal",
       "preLaunchTask": "build (Exercise2)"
+    }, 
+      {
+      "name": ".NET: Exercise3",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/Exercise3/bin/Debug/net8.0/Exercise3.dll",
+      "cwd": "${workspaceFolder}/Exercise3",
+      "console": "integratedTerminal",
+      "preLaunchTask": "build (Exercise3)"
     }
   ],
   "compounds": [
-    { "name": "Start Exercise2", "configurations": [".NET: Exercise2"] }
+    { "name": "Start Exercise2", "configurations": [".NET: Exercise2"] },
+    { "name": "Start Exercise3", "configurations": [".NET: Exercise3"] },
+    { "name": "Start ReadUser", "configurations": [".NET: ReadUser"] }
   ]
 }
