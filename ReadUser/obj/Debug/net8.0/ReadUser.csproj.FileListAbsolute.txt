@@ -1,0 +1,14 @@
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/bin/Debug/net8.0/ReadUser
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/bin/Debug/net8.0/ReadUser.deps.json
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/bin/Debug/net8.0/ReadUser.runtimeconfig.json
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/bin/Debug/net8.0/ReadUser.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/bin/Debug/net8.0/ReadUser.pdb
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.AssemblyInfoInputs.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.AssemblyInfo.cs
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.csproj.CoreCompileInputs.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/refint/ReadUser.dll
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.pdb
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ReadUser.genruntimeconfig.cache
+/home/julys/Desktop/Dev/Course/c#/base/inputs/ReadUser/obj/Debug/net8.0/ref/ReadUser.dll

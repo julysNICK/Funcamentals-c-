@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET: Launch ReadUser",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}/ReadUser/bin/Debug/net8.0/ReadUser.dll",
+      "cwd": "${workspaceFolder}/ReadUser",
+      "console": "integratedTerminal",
+      "stopAtEntry": false,
+      "preLaunchTask": "build (ReadUser)"
+    }
+  ]
+}
