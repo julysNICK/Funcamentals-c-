@@ -1,6 +1,6 @@
 ﻿Console.Write("Digite seu nome: ");
 string nome = Console.ReadLine().Trim();
-while (nome.Length == 0)
+while (string.IsNullOrEmpty(nome))
 {
     Console.Write("Nome inválido. Por favor, digite seu nome novamente: ");
     nome = Console.ReadLine().Trim();
