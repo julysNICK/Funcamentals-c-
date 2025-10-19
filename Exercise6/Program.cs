@@ -1,7 +1,8 @@
 ﻿Console.Write("How yoou want to see data? (1- day, 2- month, 3- year, 4- hour, 5- minute, 6- second): ");
 string choice = Console.ReadLine();
+string sanitizedChoice = (choice ?? string.Empty).Trim();
 DateTime now = DateTime.Now;
-switch (choice)
+switch (sanitizedChoice)
 {
     case "1":
         Console.WriteLine($"Day: {now.Day}");
